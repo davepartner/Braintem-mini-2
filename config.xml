@@ -1,6 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="org.braintem.mini2" version="1.0.0">
   <name>Braintem mini 2</name>
-  <description>Hello World sample application that responds to the deviceready event.</description>
+  <description>Braintem mobile application</description>
+  <preference name="phonegap-version" value="3.5.0" / >
   <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
